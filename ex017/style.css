@@ -1,0 +1,20 @@
+body {
+  font-family: arial, Verdana, sans-serif;
+  background-color: aqua;
+}
+
+/* 
+   Medidas absolutas: px, cm, mm, pc, in.
+   Medidas relativas: em, ex, rem, vw, vh, %
+*/
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+/* shorthand do font*/
+h2 {
+  font: italic bolder 3em 'Times New Roman, serif';
+}

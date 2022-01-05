@@ -1,0 +1,13 @@
+a {
+  color: greenyellow;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: underline;
+}

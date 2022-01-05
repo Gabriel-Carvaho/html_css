@@ -1,0 +1,47 @@
+header {
+  background-color: lightslategray;
+}
+
+header > h1 {
+  text-align: center;
+}
+
+header > nav {
+  background-color: rgb(139, 132, 132);
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+  box-shadow: 1px 1px 1px black;
+}
+
+nav > a {
+  text-decoration: none;
+  color: rgb(235, 230, 230);
+  margin-right: 10px;
+}
+
+nav > a:hover {
+  color: blue;
+}
+
+nav > a:visited {
+  color: rgb(148, 75, 148);
+}
+
+footer {
+  background-color: lightslategray;
+  padding: 3px;
+}
+
+footer > p {
+  text-align: center;
+}
+
+main {
+  background-color: rgb(154, 161, 168);
+  
+}
+
+aside > p {
+  background-color: magenta;
+}

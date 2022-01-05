@@ -1,0 +1,8 @@
+@font-face {
+  font-family: world_series;
+  src: url(worldseries.otf) format('opentype');
+}
+
+h1{
+  font-family: world_series;
+}

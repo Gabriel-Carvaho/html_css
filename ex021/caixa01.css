@@ -1,0 +1,15 @@
+h1 {
+  background-color: aquamarine;
+  width: 300px;
+  height: 300px;
+  border: 10px solid salmon;
+  padding: 10px;
+  margin: auto;
+}
+
+a {
+  color: red;
+  border-width: 3px;
+  background-color: salmon;
+  padding: 6px 3px;
+}
